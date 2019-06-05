@@ -1,0 +1,17 @@
+ @charset="UTF-8";
+p#p1 {
+	font-family: Arial;
+	font-size: 12pt;
+	color: maroon;
+	text-align: justify;
+	text-indent: 50px;
+	/*nao funciona no Chorme*/
+	-webkit-hyphens: auto;
+	-noz-hyphens: auto;
+	hyphens: auto;
+}
+p#p2 {
+	font-family: Arial;
+	font-size: 14pt;
+	color: green;
+}

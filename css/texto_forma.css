@@ -1,0 +1,16 @@
+ @charset="UTF-8";
+ span5{
+	 font-size: 9pt;
+	 color: red;
+ }
+ span6{
+	 font-size: 16pt;
+ }
+ span7{
+	 font-family: Courier;
+	 font-size: 24pt;
+	 color: blue;
+ }
+ h1{
+	 text-align: center;
+ }

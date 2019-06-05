@@ -1,0 +1,39 @@
+@charset="UTF-8";
+h1	{
+	font-family: Arial;
+	text-align: center;
+	color: #FF0000;
+}
+h2	{
+	font-family: Arial;
+	font-size: 16pt;
+	text-align: center;
+	color: green;
+}
+h3	{
+	font-size: 16pt;
+	font-family: Arial;
+	text-align: center;
+	color: #8B7500;
+}
+h4	{
+	font-size: 16pt;
+	font-family: Arial;
+	color: #0000EE;
+}
+h5	{
+	font-family: Calibri;
+	font-size: 18pt;
+}
+p#p1	{
+	background-image: url("imagens/aco.jpg");
+	font-size: 16pt;
+	font-family: Arial;
+	text-align: justify;
+	text-indent: 60px;
+	color: #D2691E;
+}
+p#p2	{
+	font-family: Calibri;
+	color: blue;
+}

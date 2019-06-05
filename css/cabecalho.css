@@ -1,0 +1,14 @@
+ @charset="UTF-8";
+ /* Unidade = 1em = 12pt = 16px = 100% */
+ h1 {font-family: Arial; font-size: 24pt; color: Maroon; text-align: left;
+ }
+ h2 {font-family: Arial; font-size: 18pt; color: red; text-align: center;
+ }
+ h3 {font-family: Arial; font-size: 14pt; color: purple; text-align: right;
+ }
+ h4 {font-family: Arial; font-size: 12pt; color: green; text-align: right;
+ }
+ h5 {font-family: Arial; font-size: 10pt; color: olive; text-align: center;
+ }
+ h6 {font-family: Arial; font-size: 8pt; color:blue; text-align: left;
+ }
